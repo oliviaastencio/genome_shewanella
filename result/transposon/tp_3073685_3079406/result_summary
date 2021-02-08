@@ -1,0 +1,46 @@
+Shewanella_putrefaciens_Pdp11:3073685:3079406	1999	3725
+# Query: Shewanella_putrefaciens_Pdp11:3073685:3079406
+# Subject: tr|A0A2K9AH24|A0A2K9AH24_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 2 hits found
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A2K9AH24|A0A2K9AH24_9GAMM	100.00	537	0	2090	3700	537	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A2K9AH24|A0A2K9AH24_9GAMM	58.33	12	0	3286	3251	537	5722
+# Query: Shewanella_putrefaciens_Pdp11:3073685:3079406
+# Subject: tr|A0A1Z4AC35|A0A1Z4AC35_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 4 hits found
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AC35|A0A1Z4AC35_9GAMM	92.36	537	0	2090	3700	537	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AC35|A0A1Z4AC35_9GAMM	58.33	12	0	3286	3251	537	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AC35|A0A1Z4AC35_9GAMM	66.67	9	0	1841	1815	537	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AC35|A0A1Z4AC35_9GAMM	40.00	20	0	494	435	537	5722
+# Query: Shewanella_putrefaciens_Pdp11:3073685:3079406
+# Subject: tr|A0A3S4N3N8|A0A3S4N3N8_SHEPU
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 3 hits found
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A3S4N3N8|A0A3S4N3N8_SHEPU	55.19	540	6	2090	3700	536	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A3S4N3N8|A0A3S4N3N8_SHEPU	38.46	13	0	408	370	536	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A3S4N3N8|A0A3S4N3N8_SHEPU	62.50	8	0	2651	2628	536	5722
+# Query: Shewanella_putrefaciens_Pdp11:3073685:3079406
+# Subject: tr|A0A2R3EZ14|A0A2R3EZ14_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 9 hits found
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A2R3EZ14|A0A2R3EZ14_9GAMM	98.91	92	0	4000	3725	208	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A2R3EZ14|A0A2R3EZ14_9GAMM	100.00	52	0	4155	4000	208	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A2R3EZ14|A0A2R3EZ14_9GAMM	100.00	65	0	1999	1805	208	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A2R3EZ14|A0A2R3EZ14_9GAMM	64.29	14	1	5105	5064	208	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A2R3EZ14|A0A2R3EZ14_9GAMM	42.86	7	0	4569	4549	208	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A2R3EZ14|A0A2R3EZ14_9GAMM	40.00	15	0	5592	5636	208	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A2R3EZ14|A0A2R3EZ14_9GAMM	80.00	5	0	207	193	208	5722
+# Query: Shewanella_putrefaciens_Pdp11:3073685:3079406
+# Subject: tr|A0A1Z4AG92|A0A1Z4AG92_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 9 hits found
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AG92|A0A1Z4AG92_9GAMM	52.33	86	0	3982	3725	204	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AG92|A0A1Z4AG92_9GAMM	54.00	50	0	4155	4006	204	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AG92|A0A1Z4AG92_9GAMM	61.29	62	0	1999	1814	204	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AG92|A0A1Z4AG92_9GAMM	66.67	9	0	1023	1049	204	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AG92|A0A1Z4AG92_9GAMM	37.50	16	0	1393	1440	204	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AG92|A0A1Z4AG92_9GAMM	35.29	17	0	815	765	204	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AG92|A0A1Z4AG92_9GAMM	35.29	34	2	207	130	204	5722
+Shewanella_putrefaciens_Pdp11:3073685:3079406	tr|A0A1Z4AG92|A0A1Z4AG92_9GAMM	38.46	13	0	495	533	204	5722
+# BLAST processed 1 queries

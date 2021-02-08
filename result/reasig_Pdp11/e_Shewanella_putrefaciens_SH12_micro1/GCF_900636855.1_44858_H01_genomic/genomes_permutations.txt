@@ -1,0 +1,18 @@
+>R_scaffold_10
++6 $
+>R_scaffold_11
+-3 +8 $
+>R_scaffold_18
++10 $
+>R_scaffold_19
++2 $
+>R_scaffold_0
++4 +5 $
+>R_scaffold_30
++7 $
+>R_scaffold_21
++9 $
+>R_scaffold_37
++1 $
+>NZ_LR134321.1
++1 +1 -7 +1 +1 +1 -5 +1 +1 +8 -10 +2 +3 -6 +4 -1 -1 -1 +9 $

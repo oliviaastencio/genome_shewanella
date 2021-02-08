@@ -1,0 +1,32 @@
+>R_scaffold_7
++7 $
+>R_scaffold_13
+-16 $
+>R_scaffold_17
+-4 $
+>R_scaffold_4
++12 $
+>R_scaffold_6
++13 $
+>R_scaffold_3
++18 $
+>R_scaffold_1
++17 $
+>R_scaffold_5
++15 $
+>R_scaffold_12
++5 $
+>R_scaffold_21
++9 $
+>R_scaffold_26
+-3 +11 $
+>R_scaffold_15
++6 $
+>R_scaffold_28
++7 $
+>R_scaffold_30
+-1 $
+>NZ_CP022089.2
++1 +14 +10 +17 +2 +15 -18 +8 -13 +8 +5 -1 +4 +16 -2 -1 +6 +1 +2 +1 -11 +3 -9 +1 +2 +1 +1 +2 +12 -2 +1 $
+>NZ_CP022090.2
++10 +14 $

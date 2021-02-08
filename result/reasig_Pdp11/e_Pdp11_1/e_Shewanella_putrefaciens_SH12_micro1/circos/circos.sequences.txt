@@ -1,0 +1,14 @@
+chr - seq1 Q_Shewanella_putrefaciens_Pdp11 0 4973697 green_a4
+chr - seq2 R_scaffold_8 0 160200 green_a4
+chr - seq7 R_scaffold_25 0 60003 green_a4
+chr - seq13 R_scaffold_10 0 153412 green_a4
+chr - seq14 R_scaffold_1 0 290533 green_a4
+chr - seq18 R_scaffold_11 0 152194 green_a4
+chr - seq22 R_scaffold_18 0 107768 green_a4
+chr - seq25 R_scaffold_15 0 123487 green_a4
+chr - seq30 R_scaffold_41 0 2114 green_a4
+chr - seq35 R_scaffold_0 0 661077 green_a4
+chr - seq36 R_scaffold_7 0 168044 green_a4
+chr - seq37 R_scaffold_30 0 46771 green_a4
+chr - seq39 R_scaffold_21 0 79332 green_a4
+chr - seq42 R_scaffold_37 0 3091 green_a4

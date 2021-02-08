@@ -1,0 +1,7 @@
+chr - seq5 R_scaffold_0 0 1319581 green_a4
+chr - seq9 R_scaffold_6 0 165325 green_a4
+chr - seq11 R_scaffold_1 0 638552 green_a4
+chr - seq14 R_scaffold_15 0 24242 green_a4
+chr - seq15 R_scaffold_16 0 16203 green_a4
+chr - seq18 R_scaffold_17 0 2923 green_a4
+chr - seq29 NC_008322.1 0 4792610 green_a4

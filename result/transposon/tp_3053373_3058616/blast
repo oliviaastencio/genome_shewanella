@@ -1,0 +1,110 @@
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|A0A2K8ZZ67|A0A2K8ZZ67_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 5 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A2K8ZZ67|A0A2K8ZZ67_9GAMM	100.00	201	0	0	3834	3232	1	201	2e-141	  424	201	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A2K8ZZ67|A0A2K8ZZ67_9GAMM	30.00	20	14	0	1409	1468	44	63	2.3	16.9	201	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A2K8ZZ67|A0A2K8ZZ67_9GAMM	50.00	12	6	0	432	397	52	63	4.5	16.2	201	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A2K8ZZ67|A0A2K8ZZ67_9GAMM	66.67	9	3	0	3579	3605	95	103	4.7	16.2	201	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A2K8ZZ67|A0A2K8ZZ67_9GAMM	41.67	24	14	0	3527	3598	95	118	7.6	15.4	201	5244
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|A0A380AEU6|A0A380AEU6_SHEPU
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 3 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A380AEU6|A0A380AEU6_SHEPU	57.68	241	101	1	2484	3206	1	240	5e-92	  288	246	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A380AEU6|A0A380AEU6_SHEPU	37.50	16	10	0	1095	1142	121	136	2.3	17.3	246	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A380AEU6|A0A380AEU6_SHEPU	44.44	9	5	0	172	146	163	171	5.2	16.2	246	5244
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|A9EKB0|A9EKB0_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 3 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9EKB0|A9EKB0_9GAMM	54.18	251	111	3	2508	3251	37	286	3e-81	  259	298	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9EKB0|A9EKB0_9GAMM	32.26	31	20	1	354	262	8	37	0.23	20.8	298	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9EKB0|A9EKB0_9GAMM	32.00	25	17	0	4483	4409	118	142	0.43	20.0	298	5244
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|A9D5I8|A9D5I8_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 4 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D5I8|A9D5I8_9GAMM	67.57	111	36	0	2874	3206	1	111	2e-51	  166	117	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D5I8|A9D5I8_9GAMM	66.67	6	2	0	163	146	36	41	2.9	15.8	117	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D5I8|A9D5I8_9GAMM	66.67	6	2	0	2221	2238	65	70	4.1	15.4	117	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D5I8|A9D5I8_9GAMM	26.32	19	14	0	3651	3707	4	22	5.2	15.0	117	5244
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|A0A330M7L3|A0A330M7L3_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 3 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A330M7L3|A0A330M7L3_9GAMM	61.48	122	46	1	2841	3206	10	130	5e-45	  148	136	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A330M7L3|A0A330M7L3_9GAMM	66.67	6	2	0	652	669	10	15	7.5	14.6	136	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A330M7L3|A0A330M7L3_9GAMM	57.14	7	3	0	166	146	55	61	8.8	14.6	136	5244
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|A0A165IHL3|A0A165IHL3_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 3 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A165IHL3|A0A165IHL3_9GAMM	54.74	95	34	2	2463	2720	21	115	7e-29	  101	118	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A165IHL3|A0A165IHL3_9GAMM	64.71	34	12	0	2383	2484	1	34	8e-13	53.9	118	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A165IHL3|A0A165IHL3_9GAMM	43.75	16	9	0	1071	1024	92	107	1.7	16.5	118	5244
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|A0A161WRB6|A0A161WRB6_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 4 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A161WRB6|A0A161WRB6_9GAMM	45.56	90	49	0	2104	2373	1	90	7e-28	97.1	92	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A161WRB6|A0A161WRB6_9GAMM	50.00	12	6	0	3009	3044	56	67	0.48	17.7	92	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A161WRB6|A0A161WRB6_9GAMM	33.33	15	10	0	2694	2650	68	82	1.1	16.5	92	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A161WRB6|A0A161WRB6_9GAMM	40.00	10	6	0	4215	4244	42	51	3.6	15.0	92	5244
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|A0A501XY48|A0A501XY48_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 4 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A501XY48|A0A501XY48_9GAMM	37.72	167	98	4	2679	3164	1	166	2e-25	93.2	177	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A501XY48|A0A501XY48_9GAMM	47.06	17	9	0	552	602	94	110	0.12	20.8	177	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A501XY48|A0A501XY48_9GAMM	53.85	13	6	0	5072	5110	65	77	1.5	17.3	177	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A501XY48|A0A501XY48_9GAMM	54.55	11	5	0	472	440	63	73	4.0	16.2	177	5244
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|A9D6W2|A9D6W2_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 6 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D6W2|A9D6W2_9GAMM	40.78	103	51	2	2544	2828	2	102	2e-20	77.4	134	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D6W2|A9D6W2_9GAMM	33.33	12	8	0	621	656	95	106	1.1	17.3	134	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D6W2|A9D6W2_9GAMM	55.56	9	4	0	4209	4235	100	108	1.3	17.3	134	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D6W2|A9D6W2_9GAMM	36.84	19	9	1	4923	4876	52	70	4.2	15.4	134	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D6W2|A9D6W2_9GAMM	66.67	6	2	0	1584	1601	67	72	5.0	15.4	134	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D6W2|A9D6W2_9GAMM	50.00	8	4	0	3886	3909	45	52	5.4	15.4	134	5244
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|A9D125|A9D125_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 4 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D125|A9D125_9GAMM	37.14	105	63	3	2901	3212	33	135	1e-18	71.6	136	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D125|A9D125_9GAMM	40.00	10	6	0	175	146	54	63	1.8	16.9	136	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D125|A9D125_9GAMM	55.56	9	4	0	4209	4235	3	11	1.9	16.5	136	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A9D125|A9D125_9GAMM	36.84	19	12	0	2101	2045	109	127	5.6	15.4	136	5244
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|A0A2W5DLC9|A0A2W5DLC9_SHEOE
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 6 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A2W5DLC9|A0A2W5DLC9_SHEOE	75.26	683	167	1	2049	1	180	860	0.0	 1078	1005	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A2W5DLC9|A0A2W5DLC9_SHEOE	79.60	201	41	0	3834	3232	1	201	2e-106	  355	1005	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A2W5DLC9|A0A2W5DLC9_SHEOE	35.00	20	13	0	2293	2234	874	893	1.4	20.4	1005	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A2W5DLC9|A0A2W5DLC9_SHEOE	38.89	18	11	0	4805	4752	109	126	3.0	19.2	1005	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A2W5DLC9|A0A2W5DLC9_SHEOE	28.21	39	25	1	2116	2232	883	918	3.0	19.2	1005	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|A0A2W5DLC9|A0A2W5DLC9_SHEOE	71.43	7	2	0	4347	4327	478	484	8.6	17.7	1005	5244
+# BLASTX 2.2.30+
+# Query: Shewanella_putrefaciens_Pdp11:3053373:3058616
+# Subject: tr|Q8EKJ1|Q8EKJ1_SHEON
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 4 hits found
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|Q8EKJ1|Q8EKJ1_SHEON	69.59	684	206	1	2052	1	179	860	0.0	 1014	1004	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|Q8EKJ1|Q8EKJ1_SHEON	75.63	197	48	0	3834	3244	1	197	3e-95	  322	1004	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|Q8EKJ1|Q8EKJ1_SHEON	28.00	25	18	0	2299	2225	872	896	3.0	19.2	1004	5244
+Shewanella_putrefaciens_Pdp11:3053373:3058616	tr|Q8EKJ1|Q8EKJ1_SHEON	40.00	20	12	0	4170	4111	100	119	7.8	17.7	1004	5244
+# BLAST processed 1 queries

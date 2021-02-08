@@ -1,0 +1,44 @@
+debuggroup summary 0.11s welcome to circos v0.67-7 16 Mar 2015 on Perl 5.014002
+debuggroup summary 0.11s loading configuration from file circos.conf
+debuggroup summary 0.11s found conf file circos.conf
+debuggroup summary 0.36s debug will appear for these features: summary,timer
+debuggroup summary 0.36s bitmap output image ./circos.png
+debuggroup summary 0.36s SVG output image ./circos.svg
+debuggroup summary 0.37s parsing karyotype and organizing ideograms
+debuggroup summary 0.37s karyotype has 19 chromosomes of total size 9,318,265
+debuggroup summary 0.38s applying global and local scaling
+debuggroup summary 0.39s allocating image, colors and brushes
+debuggroup summary 1.04s drawing 19 ideograms of total size 9,318,265
+debuggroup summary 1.04s drawing highlights and ideograms
+debuggroup summary 1.04s found conf file /mnt/home/soft/circos/programs/x86_64/0.67-7/bin/../etc/tracks/highlight.bg.conf
+debuggroup summary 1.04s process track_0 highlight /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/shewanella_genomes_paper/result/reasig_Pdp11/e_Shewanella_putrefaciens_SdM2/e_Pdp11_1/circos/circos.highlight.txt
+debuggroup summary 1.61s found conf file /mnt/home/soft/circos/programs/x86_64/0.67-7/bin/../etc/tracks/link.conf
+debuggroup summary 1.61s process track_0 link /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/shewanella_genomes_paper/result/reasig_Pdp11/e_Shewanella_putrefaciens_SdM2/e_Pdp11_1/circos/circos.segdup.txt
+debuggroup summary 1.64s drawing link track_0 z 0
+debuggroup timer 2.70s report circos 2.587 s
+debuggroup timer 2.70s report color 0.536 s
+debuggroup timer 2.70s report colorcache 0.007 s
+debuggroup timer 2.70s report colordefinitions 0.134 s
+debuggroup timer 2.70s report colorfetch 0.014 s
+debuggroup timer 2.70s report colorlists 0.017 s
+debuggroup timer 2.70s report colorlookups 0.008 s
+debuggroup timer 2.70s report colortransparency 0.275 s
+debuggroup timer 2.70s report dataparams 0.009 s
+debuggroup timer 2.70s report datarules 0.000 s
+debuggroup timer 2.70s report graphic_png_polygon 0.035 s
+debuggroup timer 2.70s report graphic_slice 0.089 s
+debuggroup timer 2.70s report graphic_slice_polygon_coord 0.016 s
+debuggroup timer 2.70s report graphic_slice_polygon_svg 0.020 s
+debuggroup timer 2.70s report graphic_slice_preprocess 0.015 s
+debuggroup timer 2.70s report highlights 0.020 s
+debuggroup timer 2.70s report ideograms_draw 0.553 s
+debuggroup timer 2.70s report ideograms_processing 0.006 s
+debuggroup timer 2.70s report ideograms_ticks_draw 0.361 s
+debuggroup timer 2.70s report ideograms_zoom 0.007 s
+debuggroup timer 2.70s report io 0.030 s
+debuggroup timer 2.70s report karyotype 0.004 s
+debuggroup timer 2.70s report parameter_seek 0.078 s
+debuggroup timer 2.70s report unitconvert 0.002 s
+debuggroup timer 2.70s report unitconvert_decision 0.000 s
+debuggroup timer 2.70s report unitconvert_delegate 0.001 s
+debuggroup timer 2.70s report unitparse 0.014 s

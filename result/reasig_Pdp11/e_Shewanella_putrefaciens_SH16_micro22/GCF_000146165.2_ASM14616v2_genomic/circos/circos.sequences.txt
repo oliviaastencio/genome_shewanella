@@ -1,0 +1,15 @@
+chr - seq1 R_scaffold_0 0 692833 green_a4
+chr - seq2 R_scaffold_1 0 505385 green_a4
+chr - seq5 R_scaffold_4 0 393722 green_a4
+chr - seq6 R_scaffold_5 0 387271 green_a4
+chr - seq9 R_scaffold_8 0 235601 green_a4
+chr - seq10 R_scaffold_9 0 208002 green_a4
+chr - seq11 R_scaffold_10 0 185189 green_a4
+chr - seq13 R_scaffold_12 0 139717 green_a4
+chr - seq18 R_scaffold_17 0 93747 green_a4
+chr - seq19 R_scaffold_18 0 75102 green_a4
+chr - seq20 R_scaffold_19 0 30227 green_a4
+chr - seq22 R_scaffold_21 0 16317 green_a4
+chr - seq25 R_scaffold_24 0 4165 green_a4
+chr - seq38 NC_004347.2 0 4969811 green_a4
+chr - seq39 NC_004349.1 0 161613 green_a4

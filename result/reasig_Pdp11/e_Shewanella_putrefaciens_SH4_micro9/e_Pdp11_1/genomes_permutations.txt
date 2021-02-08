@@ -1,0 +1,28 @@
+>R_scaffold_12
+-8 $
+>R_scaffold_9
++2 $
+>R_scaffold_21
++18 $
+>R_scaffold_1
++4 $
+>R_scaffold_13
+-17 $
+>R_scaffold_16
+-9 $
+>R_scaffold_7
++15 $
+>R_scaffold_0
++14 +5 $
+>R_scaffold_11
++19 -7 +20 $
+>R_scaffold_25
++12 $
+>R_scaffold_26
++16 $
+>R_scaffold_18
++3 $
+>R_scaffold_29
+-1 $
+>Q_Shewanella_putrefaciens_Pdp11
++6 +5 +19 +1 +20 +1 +12 +16 +1 +8 +1 -3 -1 -1 +7 -1 +18 +10 +2 -1 -1 +4 -11 +2 +13 +13 +9 +17 +15 +1 -10 +11 +14 +6 $

@@ -1,0 +1,30 @@
+>R_scaffold_9
+-11 +18 $
+>R_scaffold_10
+-5 +3 $
+>R_scaffold_3
++13 $
+>R_scaffold_2
++16 $
+>R_scaffold_8
++8 $
+>R_scaffold_11
++4 +8 $
+>R_scaffold_7
++17 $
+>R_scaffold_0
++19 $
+>R_scaffold_17
+-12 +6 $
+>R_scaffold_22
++14 $
+>R_scaffold_24
+-10 +15 $
+>R_scaffold_20
++9 $
+>R_scaffold_29
+-1 $
+>NC_004347.2
++1 +1 -15 +10 -14 +1 +12 +19 +16 +4 +17 -1 -1 -13 -1 +6 -3 +5 -1 -1 +11 -1 +9 $
+>NC_004349.1
++7 +2 +2 +2 +18 +7 $

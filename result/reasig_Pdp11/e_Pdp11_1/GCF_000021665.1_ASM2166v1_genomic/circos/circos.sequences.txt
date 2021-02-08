@@ -1,0 +1,5 @@
+chr - seq1 Q_Shewanella_putrefaciens_Pdp11 0 4973697 green_a4
+chr - seq2 NC_011663.1 0 5145902 green_a4
+chr - seq3 NC_011664.1 0 88311 green_a4
+chr - seq4 NC_011668.1 0 65448 green_a4
+chr - seq5 NC_011665.1 0 59223 green_a4

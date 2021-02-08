@@ -1,0 +1,164 @@
+>R_scaffold_8
++3 $
+>R_scaffold_24
++32 $
+>R_scaffold_4
++11 $
+>R_scaffold_23
++8 $
+>R_scaffold_6
++33 $
+>R_scaffold_25
++28 $
+>R_scaffold_32
++7 $
+>R_scaffold_33
++20 $
+>R_scaffold_9
++27 $
+>R_scaffold_20
++19 $
+>R_scaffold_34
++10 $
+>R_scaffold_10
++24 $
+>R_scaffold_1
++36 $
+>R_scaffold_31
++1 $
+>R_scaffold_28
++15 $
+>R_scaffold_35
++38 $
+>R_scaffold_11
++40 $
+>R_scaffold_29
++12 $
+>R_scaffold_22
++4 $
+>R_scaffold_14
++23 $
+>R_scaffold_18
++37 $
+>R_scaffold_19
++17 $
+>R_scaffold_2
++18 $
+>R_scaffold_15
++9 $
+>R_scaffold_26
++22 $
+>R_scaffold_16
++14 $
+>R_scaffold_17
++5 $
+>R_scaffold_13
++30 $
+>R_scaffold_41
++31 $
+>R_scaffold_3
++16 $
+>R_scaffold_12
++2 $
+>R_scaffold_39
++13 $
+>R_scaffold_27
++35 $
+>R_scaffold_0
++6 $
+>R_scaffold_7
++29 $
+>R_scaffold_30
++34 $
+>R_scaffold_5
++26 $
+>R_scaffold_21
++21 $
+>R_scaffold_36
++41 $
+>R_scaffold_37
++25 $
+>R_scaffold_38
++39 $
+>R_scaffold_8
++3 $
+>R_scaffold_24
++32 $
+>R_scaffold_4
++11 $
+>R_scaffold_23
++8 $
+>R_scaffold_6
++33 $
+>R_scaffold_25
++28 $
+>R_scaffold_32
++7 $
+>R_scaffold_33
++20 $
+>R_scaffold_9
++27 $
+>R_scaffold_20
++19 $
+>R_scaffold_34
++10 $
+>R_scaffold_10
++24 $
+>R_scaffold_1
++36 $
+>R_scaffold_31
++1 $
+>R_scaffold_28
++15 $
+>R_scaffold_35
++38 $
+>R_scaffold_11
++40 $
+>R_scaffold_29
++12 $
+>R_scaffold_22
++4 $
+>R_scaffold_14
++23 $
+>R_scaffold_18
++37 $
+>R_scaffold_19
++17 $
+>R_scaffold_2
++18 $
+>R_scaffold_15
++9 $
+>R_scaffold_26
++22 $
+>R_scaffold_16
++14 $
+>R_scaffold_17
++5 $
+>R_scaffold_13
++30 $
+>R_scaffold_41
++31 $
+>R_scaffold_3
++16 $
+>R_scaffold_12
++2 $
+>R_scaffold_39
++13 $
+>R_scaffold_27
++35 $
+>R_scaffold_0
++6 $
+>R_scaffold_7
++29 $
+>R_scaffold_30
++34 $
+>R_scaffold_5
++26 $
+>R_scaffold_21
++21 $
+>R_scaffold_36
++41 $
+>R_scaffold_37
++25 $
+>R_scaffold_38
++39 $

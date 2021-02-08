@@ -1,0 +1,162 @@
+Seq_id	Size	Description
+1	692833	R_scaffold_0
+2	505385	R_scaffold_1
+3	431926	R_scaffold_2
+4	394738	R_scaffold_3
+5	393722	R_scaffold_4
+6	387271	R_scaffold_5
+7	359335	R_scaffold_6
+8	246340	R_scaffold_7
+9	235601	R_scaffold_8
+10	208002	R_scaffold_9
+11	185189	R_scaffold_10
+12	142964	R_scaffold_11
+13	139717	R_scaffold_12
+14	114674	R_scaffold_13
+15	113078	R_scaffold_14
+16	105294	R_scaffold_15
+17	94785	R_scaffold_16
+18	93747	R_scaffold_17
+19	75102	R_scaffold_18
+20	30227	R_scaffold_19
+21	21976	R_scaffold_20
+22	16317	R_scaffold_21
+23	7254	R_scaffold_22
+24	4448	R_scaffold_23
+25	4165	R_scaffold_24
+26	3090	R_scaffold_25
+27	2363	R_scaffold_26
+28	1613	R_scaffold_27
+29	1439	R_scaffold_28
+30	1018	R_scaffold_29
+31	778	R_scaffold_30
+32	741	R_scaffold_31
+33	732	R_scaffold_32
+34	652	R_scaffold_33
+35	631	R_scaffold_34
+36	612	R_scaffold_35
+37	605	R_scaffold_36
+38	160200	R_scaffold_8
+39	69995	R_scaffold_24
+40	186205	R_scaffold_4
+41	70222	R_scaffold_23
+42	179395	R_scaffold_6
+43	60003	R_scaffold_25
+44	39072	R_scaffold_32
+45	25035	R_scaffold_33
+46	160078	R_scaffold_9
+47	79616	R_scaffold_20
+48	12488	R_scaffold_34
+49	153412	R_scaffold_10
+50	290533	R_scaffold_1
+51	41341	R_scaffold_31
+52	49373	R_scaffold_28
+53	5272	R_scaffold_35
+54	152194	R_scaffold_11
+55	47932	R_scaffold_29
+56	76617	R_scaffold_22
+57	128313	R_scaffold_14
+58	107768	R_scaffold_18
+59	98250	R_scaffold_19
+60	286234	R_scaffold_2
+61	123487	R_scaffold_15
+62	58343	R_scaffold_26
+63	118204	R_scaffold_16
+64	111002	R_scaffold_17
+65	144702	R_scaffold_13
+66	2114	R_scaffold_41
+67	217798	R_scaffold_3
+68	147906	R_scaffold_12
+69	2647	R_scaffold_39
+70	57055	R_scaffold_27
+71	661077	R_scaffold_0
+72	168044	R_scaffold_7
+73	46771	R_scaffold_30
+74	185742	R_scaffold_5
+75	79332	R_scaffold_21
+76	2514	R_scaffold_40
+77	3100	R_scaffold_36
+78	3091	R_scaffold_37
+79	2999	R_scaffold_38
+80	1536	R_scaffold_42
+81	1213	R_scaffold_43
+82	963	R_scaffold_44
+83	854	R_scaffold_45
+84	838	R_scaffold_46
+85	831	R_scaffold_47
+86	828	R_scaffold_48
+87	815	R_scaffold_49
+88	989	R_scaffold_50
+89	699	R_scaffold_51
+90	690	R_scaffold_52
+91	678	R_scaffold_53
+92	663	R_scaffold_54
+93	653	R_scaffold_55
+94	649	R_scaffold_56
+95	598	R_scaffold_57
+--------------------------------------------------------------------------------
+Block #1
+Seq_id	Strand	Start	End	Length
+18	-	82443	75065	7379
+75	+	11203	18589	7387
+--------------------------------------------------------------------------------
+Block #2
+Seq_id	Strand	Start	End	Length
+20	-	19564	5240	14325
+73	+	10702	25013	14312
+--------------------------------------------------------------------------------
+Block #3
+Seq_id	Strand	Start	End	Length
+9	-	133616	131385	2232
+54	+	1546	3760	2215
+--------------------------------------------------------------------------------
+Block #4
+Seq_id	Strand	Start	End	Length
+9	+	17134	30737	13604
+11	-	169641	154770	14872
+--------------------------------------------------------------------------------
+Block #5
+Seq_id	Strand	Start	End	Length
+7	+	95601	356550	260950
+71	+	27596	323711	296116
+--------------------------------------------------------------------------------
+Block #6
+Seq_id	Strand	Start	End	Length
+22	+	60	16296	16237
+73	-	41785	25537	16249
+--------------------------------------------------------------------------------
+Block #7
+Seq_id	Strand	Start	End	Length
+1	+	668716	672492	3777
+71	+	392416	396195	3780
+--------------------------------------------------------------------------------
+Block #8
+Seq_id	Strand	Start	End	Length
+2	+	172692	175019	2328
+58	+	19923	22250	2328
+--------------------------------------------------------------------------------
+Block #9
+Seq_id	Strand	Start	End	Length
+1	+	298538	318210	19673
+68	+	61337	80781	19445
+--------------------------------------------------------------------------------
+Block #10
+Seq_id	Strand	Start	End	Length
+25	+	995	3928	2934
+78	+	168	3091	2924
+--------------------------------------------------------------------------------
+Block #11
+Seq_id	Strand	Start	End	Length
+5	+	69514	71639	2126
+49	+	63576	65698	2123
+--------------------------------------------------------------------------------
+Block #12
+Seq_id	Strand	Start	End	Length
+5	+	268211	270392	2182
+50	+	111888	114055	2168
+--------------------------------------------------------------------------------
+Block #13
+Seq_id	Strand	Start	End	Length
+2	+	17074	19778	2705
+57	+	71856	74558	2703
+--------------------------------------------------------------------------------

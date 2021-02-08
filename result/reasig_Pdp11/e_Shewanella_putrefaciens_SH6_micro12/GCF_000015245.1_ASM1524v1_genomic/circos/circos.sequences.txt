@@ -1,0 +1,4 @@
+chr - seq9 R_scaffold_8 0 235601 green_a4
+chr - seq10 R_scaffold_11 0 185230 green_a4
+chr - seq30 R_scaffold_29 0 3033 green_a4
+chr - seq45 NC_008700.1 0 4306142 green_a4

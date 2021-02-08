@@ -1,0 +1,14 @@
+chr - seq1 R_scaffold_8 0 160200 green_a4
+chr - seq12 R_scaffold_10 0 153412 green_a4
+chr - seq13 R_scaffold_1 0 290533 green_a4
+chr - seq20 R_scaffold_14 0 128313 green_a4
+chr - seq21 R_scaffold_18 0 107768 green_a4
+chr - seq30 R_scaffold_3 0 217798 green_a4
+chr - seq31 R_scaffold_12 0 147906 green_a4
+chr - seq34 R_scaffold_0 0 661077 green_a4
+chr - seq35 R_scaffold_7 0 168044 green_a4
+chr - seq36 R_scaffold_30 0 46771 green_a4
+chr - seq37 R_scaffold_5 0 185742 green_a4
+chr - seq38 R_scaffold_21 0 79332 green_a4
+chr - seq41 R_scaffold_37 0 3091 green_a4
+chr - seq59 NZ_CP066369.1 0 4575397 green_a4

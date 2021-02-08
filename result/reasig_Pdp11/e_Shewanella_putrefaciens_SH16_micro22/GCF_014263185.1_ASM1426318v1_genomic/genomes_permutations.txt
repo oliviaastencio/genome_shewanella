@@ -1,0 +1,12 @@
+>R_scaffold_8
+-7 $
+>R_scaffold_10
++7 $
+>R_scaffold_17
+-3 $
+>R_scaffold_19
++4 $
+>R_scaffold_24
++1 $
+>NZ_CP055159.1
++1 +1 +4 +1 +6 +6 -2 +1 +1 +8 +1 -2 -1 +8 +5 +2 +5 -1 +3 $

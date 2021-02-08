@@ -1,0 +1,165 @@
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A1E3UZH2|A0A1E3UZH2_9GAMM
+# 0 hits found
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A4R2FBG3|A0A4R2FBG3_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 3 hits found
+Query_1	tr|A0A4R2FBG3|A0A4R2FBG3_9GAMM	30.49	82	48	3	1275	1502	265	343	1e-05	33.9	402	1721
+Query_1	tr|A0A4R2FBG3|A0A4R2FBG3_9GAMM	23.68	38	27	1	1651	1538	197	232	0.77	18.1	402	1721
+Query_1	tr|A0A4R2FBG3|A0A4R2FBG3_9GAMM	42.86	14	8	0	1371	1330	67	80	6.5	15.0	402	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A1XWX6|A1XWX6_SHEP2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 2 hits found
+Query_1	tr|A1XWX6|A1XWX6_SHEP2	30.95	84	45	3	1275	1502	265	343	8e-05	30.8	402	1721
+Query_1	tr|A1XWX6|A1XWX6_SHEP2	42.86	14	8	0	1371	1330	67	80	4.2	15.8	402	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|Q12IX5|Q12IX5_SHEDO
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 4 hits found
+Query_1	tr|Q12IX5|Q12IX5_SHEDO	26.03	73	45	3	1275	1475	265	334	8e-05	30.8	400	1721
+Query_1	tr|Q12IX5|Q12IX5_SHEDO	44.44	9	5	0	874	848	152	160	2.2	16.5	400	1721
+Query_1	tr|Q12IX5|Q12IX5_SHEDO	33.33	39	23	1	44	151	119	157	3.5	15.8	400	1721
+Query_1	tr|Q12IX5|Q12IX5_SHEDO	50.00	12	6	0	1160	1125	334	345	7.1	15.0	400	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|B8E991|B8E991_SHEB2
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 10 hits found
+Query_1	tr|B8E991|B8E991_SHEB2	23.20	125	74	5	1275	1586	265	388	1e-05	33.5	400	1721
+Query_1	tr|B8E991|B8E991_SHEB2	30.77	26	13	1	1371	1294	67	87	1.6	16.9	400	1721
+Query_1	tr|B8E991|B8E991_SHEB2	80.00	5	1	0	137	151	153	157	1.8	16.5	400	1721
+Query_1	tr|B8E991|B8E991_SHEB2	30.00	20	14	0	234	293	187	206	1.8	16.5	400	1721
+Query_1	tr|B8E991|B8E991_SHEB2	66.67	6	2	0	830	813	370	375	2.5	16.5	400	1721
+Query_1	tr|B8E991|B8E991_SHEB2	50.00	8	4	0	871	848	153	160	2.7	16.2	400	1721
+Query_1	tr|B8E991|B8E991_SHEB2	25.45	55	38	2	1160	996	334	385	3.5	16.2	400	1721
+Query_1	tr|B8E991|B8E991_SHEB2	33.33	18	12	0	53	106	330	347	4.0	15.8	400	1721
+Query_1	tr|B8E991|B8E991_SHEB2	42.86	14	8	0	1530	1489	151	164	5.3	15.4	400	1721
+Query_1	tr|B8E991|B8E991_SHEB2	50.00	10	5	0	1637	1666	268	277	5.8	15.4	400	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A3G4UQ55|A0A3G4UQ55_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 3 hits found
+Query_1	tr|A0A3G4UQ55|A0A3G4UQ55_9GAMM	30.77	39	27	0	1275	1391	265	303	2e-04	30.0	400	1721
+Query_1	tr|A0A3G4UQ55|A0A3G4UQ55_9GAMM	55.56	9	4	0	894	868	312	320	3.1	16.2	400	1721
+Query_1	tr|A0A3G4UQ55|A0A3G4UQ55_9GAMM	50.00	12	6	0	1160	1125	334	345	6.1	15.4	400	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A4Y6J4B7|A0A4Y6J4B7_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 2 hits found
+Query_1	tr|A0A4Y6J4B7|A0A4Y6J4B7_9GAMM	28.33	60	41	1	1275	1448	265	324	1e-05	33.5	400	1721
+Query_1	tr|A0A4Y6J4B7|A0A4Y6J4B7_9GAMM	50.00	8	4	0	871	848	153	160	2.7	16.2	400	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A4Y6J369|A0A4Y6J369_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 4 hits found
+Query_1	tr|A0A4Y6J369|A0A4Y6J369_9GAMM	83.33	6	1	0	830	813	372	377	0.83	18.1	404	1721
+Query_1	tr|A0A4Y6J369|A0A4Y6J369_9GAMM	33.33	30	10	2	339	262	236	259	5.1	15.4	404	1721
+Query_1	tr|A0A4Y6J369|A0A4Y6J369_9GAMM	42.86	14	8	0	1371	1330	68	81	5.9	15.4	404	1721
+Query_1	tr|A0A4Y6J369|A0A4Y6J369_9GAMM	80.00	5	1	0	1552	1538	335	339	5.9	15.4	404	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A4R2F5D0|A0A4R2F5D0_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 6 hits found
+Query_1	tr|A0A4R2F5D0|A0A4R2F5D0_9GAMM	30.00	60	40	1	1275	1448	243	302	2e-06	36.2	379	1721
+Query_1	tr|A0A4R2F5D0|A0A4R2F5D0_9GAMM	36.00	25	16	0	273	199	322	346	0.17	20.0	379	1721
+Query_1	tr|A0A4R2F5D0|A0A4R2F5D0_9GAMM	35.29	17	11	0	58	8	49	65	0.65	18.1	379	1721
+Query_1	tr|A0A4R2F5D0|A0A4R2F5D0_9GAMM	66.67	6	2	0	655	638	202	207	2.4	16.5	379	1721
+Query_1	tr|A0A4R2F5D0|A0A4R2F5D0_9GAMM	30.77	26	18	0	323	246	307	332	3.3	15.8	379	1721
+Query_1	tr|A0A4R2F5D0|A0A4R2F5D0_9GAMM	42.86	14	8	0	1530	1489	129	142	8.7	14.6	379	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A3D336|A3D336_SHEB5
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 4 hits found
+Query_1	tr|A3D336|A3D336_SHEB5	35.00	20	13	0	1515	1456	296	315	3.5	16.2	460	1721
+Query_1	tr|A3D336|A3D336_SHEB5	66.67	6	2	0	279	262	254	259	7.3	15.0	460	1721
+Query_1	tr|A3D336|A3D336_SHEB5	33.33	21	14	0	130	192	415	435	7.9	15.0	460	1721
+Query_1	tr|A3D336|A3D336_SHEB5	30.77	26	16	1	1189	1260	391	416	8.3	15.0	460	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A501XPW9|A0A501XPW9_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 3 hits found
+Query_1	tr|A0A501XPW9|A0A501XPW9_9GAMM	90.00	10	1	0	1721	1692	137	146	0.015	21.6	146	1721
+Query_1	tr|A0A501XPW9|A0A501XPW9_9GAMM	57.14	7	3	0	1451	1431	69	75	4.3	14.2	146	1721
+Query_1	tr|A0A501XPW9|A0A501XPW9_9GAMM	35.71	14	9	0	1371	1330	67	80	7.4	13.5	146	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A330M7A4|A0A330M7A4_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 2 hits found
+Query_1	tr|A0A330M7A4|A0A330M7A4_9GAMM	50.00	14	7	0	942	901	274	287	0.74	18.1	413	1721
+Query_1	tr|A0A330M7A4|A0A330M7A4_9GAMM	30.00	30	21	0	994	1083	78	107	6.1	15.4	413	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A330LWY1|A0A330LWY1_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 1 hits found
+Query_1	tr|A0A330LWY1|A0A330LWY1_9GAMM	62.50	8	3	0	1060	1083	84	91	7.3	15.0	397	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A330M2G4|A0A330M2G4_9GAMM
+# 0 hits found
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A330M4W6|A0A330M4W6_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 2 hits found
+Query_1	tr|A0A330M4W6|A0A330M4W6_9GAMM	26.09	92	59	2	1275	1526	266	356	2e-04	29.3	397	1721
+Query_1	tr|A0A330M4W6|A0A330M4W6_9GAMM	53.85	13	6	0	942	904	258	270	0.75	18.1	397	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|F6CGJ1|F6CGJ1_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 2 hits found
+Query_1	tr|F6CGJ1|F6CGJ1_9GAMM	62.50	8	3	0	871	848	153	160	0.71	18.1	397	1721
+Query_1	tr|F6CGJ1|F6CGJ1_9GAMM	50.00	14	7	0	945	904	257	270	0.77	18.1	397	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A1E3UQM0|A0A1E3UQM0_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 7 hits found
+Query_1	tr|A0A1E3UQM0|A0A1E3UQM0_9GAMM	60.00	10	4	0	1196	1167	315	324	1.5	17.3	391	1721
+Query_1	tr|A0A1E3UQM0|A0A1E3UQM0_9GAMM	45.45	11	6	0	1709	1677	68	78	2.1	16.5	391	1721
+Query_1	tr|A0A1E3UQM0|A0A1E3UQM0_9GAMM	34.62	26	9	1	1353	1406	232	257	2.4	16.5	391	1721
+Query_1	tr|A0A1E3UQM0|A0A1E3UQM0_9GAMM	26.67	15	11	0	613	657	145	159	4.4	15.8	391	1721
+Query_1	tr|A0A1E3UQM0|A0A1E3UQM0_9GAMM	18.68	91	70	2	1130	864	275	363	5.1	15.4	391	1721
+Query_1	tr|A0A1E3UQM0|A0A1E3UQM0_9GAMM	55.56	9	4	0	1081	1055	98	106	6.6	15.0	391	1721
+Query_1	tr|A0A1E3UQM0|A0A1E3UQM0_9GAMM	50.00	8	4	0	672	649	316	323	9.2	14.6	391	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A2K8ZN58|A0A2K8ZN58_9GAMM
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 3 hits found
+Query_1	tr|A0A2K8ZN58|A0A2K8ZN58_9GAMM	20.73	82	55	2	382	621	1	74	2.4	15.8	281	1721
+Query_1	tr|A0A2K8ZN58|A0A2K8ZN58_9GAMM	60.00	10	4	0	1196	1167	205	214	2.9	15.8	281	1721
+Query_1	tr|A0A2K8ZN58|A0A2K8ZN58_9GAMM	35.29	17	11	0	1530	1480	41	57	3.0	15.8	281	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A0A1E5IQ02|A0A1E5IQ02_SHECO
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 2 hits found
+Query_1	tr|A0A1E5IQ02|A0A1E5IQ02_SHECO	29.41	17	12	0	1371	1321	67	83	1.5	14.6	92	1721
+Query_1	tr|A0A1E5IQ02|A0A1E5IQ02_SHECO	31.25	16	11	0	55	8	72	87	2.8	13.9	92	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A9KZK9|A9KZK9_SHEB9
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject length, query length
+# 2 hits found
+Query_1	tr|A9KZK9|A9KZK9_SHEB9	33.33	15	10	0	546	590	35	49	0.71	15.4	82	1721
+Query_1	tr|A9KZK9|A9KZK9_SHEB9	23.08	26	20	0	475	552	57	82	5.9	12.7	82	1721
+# BLASTX 2.2.30+
+# Query: 
+# Subject: tr|A9D9Q8|A9D9Q8_9GAMM
+# 0 hits found
+# BLAST processed 1 queries

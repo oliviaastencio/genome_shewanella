@@ -1,0 +1,38 @@
+>R_scaffold_5
++4 +2 +20 $
+>R_scaffold_7
++5 $
+>R_scaffold_11
++13 $
+>R_scaffold_2
++19 +8 $
+>R_scaffold_0
++15 +9 $
+>R_scaffold_4
++26 $
+>R_scaffold_9
++24 $
+>R_scaffold_14
++30 $
+>R_scaffold_6
++14 $
+>R_scaffold_3
++25 +3 +7 $
+>R_scaffold_1
++27 +10 $
+>R_scaffold_13
++23 +28 $
+>R_scaffold_8
++6 $
+>R_scaffold_15
++22 $
+>R_scaffold_16
++17 $
+>R_scaffold_10
++16 $
+>R_scaffold_12
++29 +21 $
+>R_scaffold_17
++1 $
+>NC_009438.1
++21 +1 +4 +2 +11 +12 +12 +18 +2 +20 +1 +5 +1 +13 +19 +3 +8 +1 +15 +18 -11 +9 +26 -1 +24 +30 +14 +25 +7 +3 +27 +28 -1 +23 +10 +6 -1 +22 +17 +16 -1 +29 $

@@ -1,0 +1,2 @@
+chr - seq18 R_scaffold_17 0 2923 green_a4
+chr - seq29 NZ_CP014782.1 0 6353406 green_a4

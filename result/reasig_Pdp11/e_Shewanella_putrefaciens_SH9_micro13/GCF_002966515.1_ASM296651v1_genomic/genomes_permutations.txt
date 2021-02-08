@@ -1,0 +1,72 @@
+>R_scaffold_28
++45 +29 $
+>R_scaffold_30
++23 $
+>R_scaffold_13
++57 $
+>R_scaffold_8
+-4 $
+>R_scaffold_10
++41 +22 $
+>R_scaffold_3
++52 $
+>R_scaffold_11
++42 -34 +28 $
+>R_scaffold_9
+-49 +38 $
+>R_scaffold_17
+-8 $
+>R_scaffold_2
++13 $
+>R_scaffold_7
++15 +24 +44 +2 $
+>R_scaffold_12
++55 +44 $
+>R_scaffold_1
++25 +58 -56 +43 +18 +30 +59 $
+>R_scaffold_6
++47 +46 +51 $
+>R_scaffold_4
++27 +36 $
+>R_scaffold_24
++10 $
+>R_scaffold_21
++26 $
+>R_scaffold_14
+-3 +9 $
+>R_scaffold_23
+-53 $
+>R_scaffold_20
+-11 +50 $
+>R_scaffold_22
++32 $
+>R_scaffold_0
+-17 +12 $
+>R_scaffold_26
++2 $
+>R_scaffold_5
++35 $
+>R_scaffold_31
++40 $
+>R_scaffold_16
++39 $
+>R_scaffold_25
++33 $
+>R_scaffold_33
++48 $
+>R_scaffold_15
++19 +54 +20 $
+>R_scaffold_27
++37 $
+>R_scaffold_29
++7 $
+>R_scaffold_32
++6 $
+>R_scaffold_18
++14 $
+>R_scaffold_19
++5 $
+>R_scaffold_34
+-1 $
+>NZ_CP023019.1
+-15 -13 +8 -1 -38 +49 -28 +34 +12 +35 +40 -1 +39 +33 +48 +19 +20 -1 +4 +14 -1 +5 +1 +45 -31 +16 -16 +29 +23 +57 +1 -6 -7 -37 +1 +41 +54 +22 +1 +52 +1 +42 +17 -32 -50 +11 +53 -9 +3 -26 -10 +1 +55 +21 +2 -46 +43 +31 +18 +59 +47 +51 +27 -30 +36 -2 -21 +56 -25 +58 -24 $

@@ -1,0 +1,6 @@
+chr - seq9 R_scaffold_8 0 235601 green_a4
+chr - seq11 R_scaffold_10 0 185189 green_a4
+chr - seq20 R_scaffold_19 0 30227 green_a4
+chr - seq22 R_scaffold_21 0 16317 green_a4
+chr - seq25 R_scaffold_24 0 4165 green_a4
+chr - seq38 NZ_CP039928.1 0 4728522 green_a4

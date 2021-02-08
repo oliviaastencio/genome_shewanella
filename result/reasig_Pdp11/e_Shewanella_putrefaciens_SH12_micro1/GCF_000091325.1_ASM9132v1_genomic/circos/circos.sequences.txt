@@ -1,0 +1,2 @@
+chr - seq41 R_scaffold_37 0 3091 green_a4
+chr - seq59 NC_014012.1 0 4962103 green_a4

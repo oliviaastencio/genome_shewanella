@@ -1,0 +1,58 @@
+>Q_Shewanella_putrefaciens_Pdp11
+-3 +58 -2 -17 +29 -1 -7 +14 -1 +25 +9 -1 -13 +42 +41 -1 +28 +1 -6 +24 +22 +50 +1 -38 +53 -5 +19 +1 +20 -49 +47 +10 +11 -26 +23 +1 +37 +15 +52 +1 +46 -12 +32 +34 -21 +36 +47 +57 +57 +39 +51 +56 +54 +55 -27 +43 -1 +8 +40 +48 +49 +45 +21 +44 -31 +33 +4 +35 -30 +18 -3 +58 -2 $
+>R_scaffold_7
+-41 +16 -42 +13 $
+>R_scaffold_13
++22 $
+>R_scaffold_17
++50 $
+>R_scaffold_8
+-14 +7 $
+>R_scaffold_4
++20 +10 $
+>R_scaffold_19
+-11 $
+>R_scaffold_2
+-29 +17 +2 +3 -18 +30 +52 $
+>R_scaffold_6
++46 -4 $
+>R_scaffold_3
+-33 +31 +32 $
+>R_scaffold_27
+-43 $
+>R_scaffold_25
++27 $
+>R_scaffold_1
++34 +36 +39 $
+>R_scaffold_14
++56 +51 $
+>R_scaffold_23
++54 $
+>R_scaffold_5
++55 $
+>R_scaffold_10
++8 $
+>R_scaffold_20
++40 $
+>R_scaffold_0
++48 +45 +44 +12 +35 -15 $
+>R_scaffold_18
+-37 $
+>R_scaffold_16
+-23 +26 $
+>R_scaffold_12
+-19 +5 $
+>R_scaffold_9
+-53 +38 $
+>R_scaffold_21
++25 $
+>R_scaffold_26
++9 $
+>R_scaffold_11
+-24 +6 $
+>R_scaffold_15
+-28 $
+>R_scaffold_28
++16 $
+>R_scaffold_30
+-1 $

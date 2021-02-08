@@ -1,0 +1,11 @@
+PASS	Basic Statistics	Pdp11_1492R.fastq
+PASS	Per base sequence quality	Pdp11_1492R.fastq
+PASS	Per sequence quality scores	Pdp11_1492R.fastq
+FAIL	Per base sequence content	Pdp11_1492R.fastq
+PASS	Per sequence GC content	Pdp11_1492R.fastq
+PASS	Per base N content	Pdp11_1492R.fastq
+PASS	Sequence Length Distribution	Pdp11_1492R.fastq
+PASS	Sequence Duplication Levels	Pdp11_1492R.fastq
+FAIL	Overrepresented sequences	Pdp11_1492R.fastq
+PASS	Adapter Content	Pdp11_1492R.fastq
+PASS	Kmer Content	Pdp11_1492R.fastq
